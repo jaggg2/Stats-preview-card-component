@@ -5,11 +5,10 @@ body{
 }
 
 .card{
-    margin:4rem 1rem;
     background-color:hsl(244, 38%, 16%);
     border-radius:10px;
-    margin:7.2rem;
-    height:65vh;
+    margin:8rem;
+    height:60vh;
 }
 
 .main{
@@ -67,14 +66,14 @@ font-family: 'Inter', sans-serif;
     float:right;
     background-size:cover;
     width:600px; 
-    height:65vh;
+    height:60vh;
     border-radius:0 10px 10px 0;
     
 }
 
 .attribution{
     font-size: 11px;
-    margin-top:2rem;
+    margin-top:1.5rem;
     color:hsla(0, 0%, 100%, 0.6);
     font-family: 'Lexend Deca', sans-serif;
     text-align: center;
