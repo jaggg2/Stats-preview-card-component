@@ -7,7 +7,7 @@ body{
 .card{
     background-color:hsl(244, 38%, 16%);
     border-radius:10px;
-    margin:8rem;
+    margin:8.5rem 8rem;
     height:60vh;
 }
 
